@@ -63,6 +63,6 @@ Utilizzare solo:
 ## 📬 Contatti
 **InSIDE Lab – Insubria Information & Data for Economics**  
 Dipartimento di Economia – Università degli Studi dell’Insubria  
-Email di riferimento: *[inserire email istituzionale]*
+Email di riferimento: *samuele.tonati@uninsubria.it*
 
 ---
